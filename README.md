@@ -29,3 +29,43 @@ python3 -m django startapp restaurant
 ```bash
 python3 manage.py runserver
 ```
+<table align='center'>
+  <tr align='center'>
+    <td>Home</td>
+    <td>About</td>
+  </tr>
+  <tr align='center'>
+    <td>
+      <img src='https://github.com/truonganhvu205/little-lemon-be/blob/main/little-lemon-django-truong-anh-vu-11-24-2023/little-lemon-django-truong-anh-vu-11-24-2023-pic-1.png' />
+    </td>
+    <td>
+      <img src='https://github.com/truonganhvu205/little-lemon-be/blob/main/little-lemon-django-truong-anh-vu-11-24-2023/little-lemon-django-truong-anh-vu-11-24-2023-pic-2.png' />
+    </td>
+  </tr>
+</table>
+
+<table align='center'>
+  <tr align='center'>
+    <td>Menu</td>
+    <td>Menu item</td>
+  </tr>
+  <tr align='center'>
+    <td>
+      <img src='https://github.com/truonganhvu205/little-lemon-be/blob/main/little-lemon-django-truong-anh-vu-11-24-2023/little-lemon-django-truong-anh-vu-11-24-2023-pic-3.png' />
+    </td>
+    <td>
+      <img src='https://github.com/truonganhvu205/little-lemon-be/blob/main/little-lemon-django-truong-anh-vu-11-24-2023/little-lemon-django-truong-anh-vu-11-24-2023-pic-4.png' />
+    </td>
+  </tr>
+</table>
+
+<table align='center'>
+  <tr align='center'>
+    <td>Book</td>
+  </tr>
+  <tr align='center'>
+    <td>
+      <img src='https://github.com/truonganhvu205/little-lemon-be/blob/main/little-lemon-django-truong-anh-vu-11-24-2023/little-lemon-django-truong-anh-vu-11-24-2023-pic-5.png' />
+    </td>
+  </tr>
+</table>
