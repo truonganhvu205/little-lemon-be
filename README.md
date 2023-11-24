@@ -70,7 +70,7 @@ python3 manage.py runserver
   </tr>
 </table>
 
-## Deactivate venv
+# Deactivate venv
 ```bash
 deactivate
 ```
