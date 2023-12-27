@@ -6,7 +6,6 @@ body {
     margin-right: 5%;
 }
 
-
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Markazi Text', serif;
     letter-spacing: 2px;;
@@ -44,7 +43,6 @@ header img {
     max-width: 100%;
     height: auto;
 }
-
 
 nav {
     background-color: #495E57;
@@ -113,7 +111,7 @@ figure {
 label {
     font-weight: bold;
     display: block;
-  }
+}
 
 input{
     width: 80%;
@@ -133,7 +131,7 @@ input{
     display: block;
     color: #fff;
     line-height: 25px;
-  }
+}
 
 #hero {
     background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8)), url('../img/restaurant_inside.jpg');
@@ -168,11 +166,11 @@ input{
     color:#fff;
     background:#495E57;
     border: 3px solid #495E57; 
-  }
+}
 
-  .heading-shadow {
+.heading-shadow {
     text-shadow: 1px 1px 4px #333333;
-  }
+}
 
 footer {
     background-color: #EDEFEE;
@@ -201,18 +199,17 @@ footer p {
     flex-direction: row;
     width: 100%;
     padding-bottom: 1rem;
-  }
+}
 
-  .column {
+.column {
     flex-basis: 50%;
     margin-bottom: 1rem;
     padding-bottom: 1rem;
-  }
+}
 
-  .column figure {
+.column figure {
     padding: 0px 12px;
-
-  }
+}
 
 
   .videowrap {
