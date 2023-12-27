@@ -15,11 +15,10 @@ def book(request):
 
     if request.method == 'POST':
         form = BookingForm(request.POST)
-
         if form.is_valid():
             form.save()
 
-    context = {'form':form}
+    context = {'form': form}
 
     return render(request, 'book.html', context)
 
