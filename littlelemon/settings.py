@@ -81,7 +81,6 @@ DATABASES = {
     }
 }
 
-# The settings for media files have been updated for the Graded assessment
 MEDIA_URL = '/media/'
 
 # Password validation
