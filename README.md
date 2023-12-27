@@ -1,4 +1,10 @@
-# Preparing
+# Clone project
+```bash
+git init
+git clone https://github.com/truonganhvu205/little-lemon-django-app.git
+cd little-lemon-django-app
+```
+
 ## Create venv
 ```bash
 python3 -m venv env
