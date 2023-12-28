@@ -35,6 +35,7 @@ python3 -m django startapp restaurant
 ```bash
 python3 manage.py runserver
 ```
+
 <table align='center'>
   <tr align='center'>
     <td>Home</td>
