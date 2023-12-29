@@ -1,7 +1,7 @@
 # from django.http import HttpResponse
 from django.shortcuts import render
-from .forms import BookingForm
 from .models import Menu
+from .forms import BookingForm
 
 # Create your views here.
 def home(request):
@@ -9,18 +9,6 @@ def home(request):
 
 def about(request):
     return render(request, 'about.html')
-
-def book(request):
-    form = BookingForm()
-
-    if request.method == 'POST':
-        form = BookingForm(request.POST)
-        if form.is_valid():
-            form.save()
-
-    context = {'form': form}
-
-    return render(request, 'book.html', context)
 
 def menu(request):
     menu_data = Menu.objects.all()
@@ -35,3 +23,15 @@ def display_menu_item(request, pk=None):
         menu_item = ''
 
     return render(request, 'menu_item.html', {'menu_item': menu_item})
+
+def book(request):
+    form = BookingForm()
+
+    if request.method == 'POST':
+        form = BookingForm(request.POST)
+        if form.is_valid():
+            form.save()
+
+    context = {'form': form}
+
+    return render(request, 'book.html', context)
