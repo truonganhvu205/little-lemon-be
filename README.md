@@ -23,7 +23,7 @@ python3 manage.py runserver
 
 ## Deactivate venv
 ```bash
-deactivate OR exit
+deactivate
 ```
 
 # Preview project
