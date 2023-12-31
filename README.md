@@ -5,13 +5,9 @@ git clone https://github.com/truonganhvu205/little-lemon-django-app.git
 cd little-lemon-django-app
 ```
 
-## Create venv
+## Create venv & activate venv
 ```bash
 python3 -m venv env
-```
-
-## Activate venv
-```bash
 source env/bin/activate
 ```
 
@@ -20,22 +16,12 @@ source env/bin/activate
 pip3 install django
 ```
 
-## Create Django project
-### Create Little Lemon
-```bash
-django-admin startproject littlelemon .
-```
-
-### Create restaurant
-```bash
-python3 -m django startapp restaurant
-```
-
 # Getting Started
 ```bash
 python3 manage.py runserver
 ```
 
+# Preview project
 <table align='center'>
   <tr align='center'>
     <td>Home</td>
@@ -79,5 +65,5 @@ python3 manage.py runserver
 
 ## Deactivate venv
 ```bash
-deactivate
+deactivate OR exit
 ```
