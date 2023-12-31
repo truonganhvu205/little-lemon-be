@@ -16,7 +16,7 @@ source env/bin/activate
 pip3 install django
 ```
 
-# Getting Started
+# Run server
 ```bash
 python3 manage.py runserver
 ```
