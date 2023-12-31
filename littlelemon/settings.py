@@ -120,7 +120,7 @@ USE_TZ = True
 STATIC_URL = 'restaurant/static/'
 
 STATICFILES_DIRS = [
-    "restaurant/static",
+    'restaurant/static',
 ]
 
 # Default primary key field type
