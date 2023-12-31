@@ -21,6 +21,11 @@ pip3 install django
 python3 manage.py runserver
 ```
 
+## Deactivate venv
+```bash
+deactivate OR exit
+```
+
 # Preview project
 <table align='center'>
   <tr align='center'>
@@ -29,10 +34,10 @@ python3 manage.py runserver
   </tr>
   <tr align='center'>
     <td>
-      <img src='https://github.com/truonganhvu205/little-lemon-django-app/blob/main/little-lemon-django-truong-anh-vu-11-24-2023/little-lemon-django-truong-anh-vu-11-24-2023-pic-1.png' />
+      <img src='https://github.com/truonganhvu205/little-lemon-django-app/blob/main/little-lemon-django-app/little-lemon-django-app-pic-1.png' />
     </td>
     <td>
-      <img src='https://github.com/truonganhvu205/little-lemon-django-app/blob/main/little-lemon-django-truong-anh-vu-11-24-2023/little-lemon-django-truong-anh-vu-11-24-2023-pic-2.png' />
+      <img src='https://github.com/truonganhvu205/little-lemon-django-app/blob/main/little-lemon-django-app/little-lemon-django-app-pic-2.png' />
     </td>
   </tr>
 </table>
@@ -44,10 +49,10 @@ python3 manage.py runserver
   </tr>
   <tr align='center'>
     <td>
-      <img src='https://github.com/truonganhvu205/little-lemon-django-app/blob/main/little-lemon-django-truong-anh-vu-11-24-2023/little-lemon-django-truong-anh-vu-11-24-2023-pic-3.png' />
+      <img src='https://github.com/truonganhvu205/little-lemon-django-app/blob/main/little-lemon-django-app/little-lemon-django-app-pic-3.png' />
     </td>
     <td>
-      <img src='https://github.com/truonganhvu205/little-lemon-django-app/blob/main/little-lemon-django-truong-anh-vu-11-24-2023/little-lemon-django-truong-anh-vu-11-24-2023-pic-4.png' />
+      <img src='https://github.com/truonganhvu205/little-lemon-django-app/blob/main/little-lemon-django-app/little-lemon-django-app-pic-4.png' />
     </td>
   </tr>
 </table>
@@ -58,12 +63,7 @@ python3 manage.py runserver
   </tr>
   <tr align='center'>
     <td>
-      <img src='https://github.com/truonganhvu205/little-lemon-django-app/blob/main/little-lemon-django-truong-anh-vu-11-24-2023/little-lemon-django-truong-anh-vu-11-24-2023-pic-5.png' />
+      <img src='https://github.com/truonganhvu205/little-lemon-django-app/blob/main/little-lemon-django-app/little-lemon-django-app-pic-5.png' />
     </td>
   </tr>
 </table>
-
-## Deactivate venv
-```bash
-deactivate OR exit
-```
